@@ -1,0 +1,39 @@
+.navbar-brand {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+@media (min-width: 960px) {
+  .ms-lg-only-20 {
+    margin-left: 20%;
+  }
+}
+
+@media (min-width: 960px) {
+  .ms-lg-only-30 {
+    margin-left: 30%;
+    font-size: 20px;
+    font-weight: 320;
+
+  }
+}
+
+@media (min-width: 960px) {
+  .ms-lg-only-35 {
+    margin-left: 35%;
+    font-size: 20px;
+    font-weight: 320;
+  }
+}
+
+/* @media (min-width: 960px) {
+      .ms-lg-only-50 {
+        margin-left: 50%;
+        font-size: 20px;
+        font-weight: 320;
+      }} */
+#li:hover {
+  /* color: rgb(16, 122, 16); */
+  /* background-color: aqua; */
+  color: green;
+}
